@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name            Cycle Scroll Tabs (for 72 unbranded)
+// @name            Cycle Scroll Tabs (for 71 unbranded)
 // @include         main
 // @startup         UC.enterSelects.exec(win);
 // @shutdown        UC.enterSelects.destroy();
