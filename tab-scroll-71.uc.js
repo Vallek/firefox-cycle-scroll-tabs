@@ -18,14 +18,7 @@ function detect(evt) {
 		if (event.deltaY < 0) {
 			let prevTab = currentTab.previousElementSibling;
 			if (prevTab != null) {
-				let prevClass =  prevTab.classList.value;
-				if (prevClass != 'tabbrowser-tab') {
-					let lastTab = tabbar.querySelector('.tabbrowser-tab:last-of-type');
-					lastTab.click();
-				}
-				else {
-					prevTab.click();
-				}
+				prevTab.click();
 			}
 			else {
 				let lastTab = tabbar.querySelector('.tabbrowser-tab:last-of-type');
