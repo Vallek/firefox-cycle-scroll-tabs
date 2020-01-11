@@ -32,4 +32,4 @@ And of course always remember: this all could be broken in next update:)))
 
 **upd3** **FIXED IT** for 72 unbranded! But now you have to download different version. I name them with version numbers now. For those who is interested: it turns out the root element name is different there. It's `<window>` in 71 and `<html>` in 72.
 
-**upd4** The original post with this instruction was "automatically held for moderation because your post contained a specific undisclosed word at one point" from firefox subreddit. Originally i thought it was shadowbanned but I was wrong. I'll leave and there it here anyways.
+**upd4** The original post with this instruction was "automatically held for moderation because your post contained a specific undisclosed word at one point" from firefox subreddit. Originally i thought it was shadowbanned but I was wrong. I'll leave it there and here anyways.
