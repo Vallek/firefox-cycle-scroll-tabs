@@ -10,7 +10,7 @@ Couple important things first:
 
 3. You will need to use user [script manager](https://github.com/xiaoxiaoflood/firefox-scripts).
 
-Ho to install:
+How to install:
 
 1. Get one of the Firefox versions from [here](https://wiki.mozilla.org/Add-ons/Extension_Signing#Latest_Builds).
 
