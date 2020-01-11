@@ -31,3 +31,5 @@ And of course always remember: this all could be broken in next update:)))
 **upd2** Yep i tried 72 (witch called "beta" on wiki page) and it's not working. So I guess you could ignore it:) Or maybe it will work on "stable" unbranded. Or maybe I missed something.
 
 **upd3** **FIXED IT** for 72 unbranded! But now you have to download different version. I name them with version numbers now. For those who is interested: it turns out the root element name is different there. It's `<window>` in 71 and `<html>` in 72.
+
+**upd4** The original post with this instruction was shadowbanned from firefox subreddit because reasons and it's current year I guess.
