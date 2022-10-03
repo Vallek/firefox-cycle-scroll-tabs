@@ -1,3 +1,5 @@
+**IMPORTANT UPD** [TabMixPlus is kinda back)](https://github.com/onemen/TabMixPlus) And it have the scroll cycle tabs functionality! 
+
 Hello everybody! it's that time of the month again, when another update breaks another feature. Yes I'm talking about cycling through tabs [again](https://www.reddit.com/r/firefox/comments/e8ckeu/how_to_cycle_tabs_with_scroll_wheel_since_71/). Just to make it clear this time by cycling I mean jump from first to last and from last to first.
 
 Last time I just updated previous fix that was done before me. But this time it's broken for good. But don't worry! It could be done.
