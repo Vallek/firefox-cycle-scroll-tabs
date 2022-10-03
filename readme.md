@@ -18,7 +18,7 @@ How to install:
 
 2. Install userChromeJS from link above. Just follow instructions. They have bunch of scripts there. If you only want tabs scroll just don't copy them in your chrome folder.
 
-3. Download my script from [github](https://github.com/Vallek/firefox-cycle-scroll-tabs) according to version of unbranded build.
+3. Download my script from [github](https://github.com/Vallek/firefox-cycle-scroll-tabs).
 
 4. Place it according to userChromeJS instructions.
 
@@ -35,3 +35,5 @@ And of course always remember: this all could be broken in next update:)))
 **upd3** **FIXED IT** for 72 unbranded! But now you have to download different version. I name them with version numbers now. For those who is interested: it turns out the root element name is different there. It's `<window>` in 71 and `<html>` in 72.
 
 **upd4** The [original post](https://www.reddit.com/r/firefox/comments/emdhzc/how_to_cycle_tabs_with_scroll_wheel_in_72/) with this instruction was "automatically held for moderation because your post contained a specific undisclosed word at one point" from firefox subreddit. Originally i thought it was shadowbanned but I was wrong. I'll leave it there and here anyways.
+
+**upd5** Last tested of 97.0.1 unbranded. I don't use this anymore myself because it's too much of a hassle to update unbranded. However if you have any problems write an issue and I will check it again on current version.
